@@ -1,0 +1,2 @@
+# Detail
+Detail模块
